@@ -1,4 +1,4 @@
-# Portfolio---Implementing-K-means-clustering-algoirthm
+# Portfolio---Implementing-K-means-clustering-algorithm
 This Portfolio is about the implementation of `K-means clustering algorithm` which is a very popular unsupervised learning algorithm.
 
 This portfolio covers the below observations:
